@@ -7,12 +7,14 @@ L’idée est venue de la visite récente à l’Elysée des différentes entit�
 Pour ce faire l'association sera un club fictive "ajax Amsterdam eSport" basée à Paris.
 Elle fera des journées de recrutement pour son équipe eSport dans différente villes de France.
 Pour ces équipes eSport les jeux "FIFA club pro 11vs11.
+
 Je réalise un brouillon, pour ce faire j'utilise le site "excalidraw.com" ainsi que l'application PC "bloc-notes" pour poser un squelette du site, le but est d'avoir une idée concrète et visuel du contexte du projet et de poser les restrictions et idées sur ce contenu.
 Après cette étape, Je choisis d'utiliser le site unsplash.com afin de trouver des images de fond, ces fichiers seront dans le dossier "img".
 La première image de fond sera une image visuelle d'un stade de football, l'un des symboles du club fictif, pour projeter les visiteurs (voir dossier img).
 Je créer un dépôt GitHub site le site github.com puis sur l'application Gitbash pour créer un dossier puis je vais sur Visual studio code en commencent à coder en créant une page html (index.html) et css (styles.css).
 Pour le style de police sur le « body » du site, j’utilise Google font
 Voici le lien utilisé sur les 2 pages html et css :
+
 HTML:
 <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,14 +22,9 @@ HTML:
   <link rel="stylesheet" href="styles.css">
 
 
-
-
-
 CSS:
 body {
-  font-family: 'Kdam Thmor Pro', sans-serif;
-  
-}
+  font-family: 'Kdam Thmor Pro', sans-serif;}
 
 Voulant une Navbar qui correspond au projet j’utilise le Framework Bootstrap
 Voici l’exemple d’intégration sur le site :
